@@ -1,0 +1,16 @@
+{
+  "hosts":[
+    "mt-api.kuxun.cn",
+    "pay.meituan.com",
+    "passport.meituan.com",
+    "mt-api.flight.test.sankuai.com",
+    "mpay.paymt.paydev.sankuai.com",
+    "passport.sso.mtp.dev.sankuai.com",
+    "apiall.hotel.test.sankuai.com",
+    "ordercenter.wpt.test.sankuai.com"
+  ],
+  "mock_server_ip":"localhost",
+  "mock_server_port":9090,
+  "proxy_server_ip":"localhost",
+  "proxy_server_port":8080
+}
